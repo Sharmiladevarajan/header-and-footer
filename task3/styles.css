@@ -1,0 +1,622 @@
+body{
+    background-color:whitesmoke;
+}
+.imge
+{
+    height: 50px;
+    width: 113px;
+}
+li.nav-item.home {
+    padding-left: 360px;
+}
+div#Home {
+    text-align: center;
+    font-size: larger;
+    font-family: fangsong;
+}
+.headerimg
+{
+    background-image: url("images/header.jpg");
+  
+        width: 100%;
+        height: 592px;
+}
+.container-fluid.section-one {
+    background-color: aliceblue;
+ 
+        padding-top: 10px;
+        padding-bottom: 0px;
+}
+
+li{
+    list-style-type:none;
+    display: inline;
+}
+li.head {
+    padding-left: 550px;
+}
+
+.section-header
+{
+    padding-top:50px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+.section-header p{
+    font-size: 18px;
+}
+.single-service
+{
+    border: 1px solid;
+    text-align: center;
+    background-color: honeydew;
+    
+}
+
+.service-bg
+{
+    height: 200px;
+    position: relative;
+}
+.service-bg-1
+{
+    background-image: url("images/body/cloud_\ computing_software.jpg");
+height: 250px;
+background-position: center;
+}
+.service-bg-2
+{
+    background-image: url("images/body/cust-software.png");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+
+
+.service-bg-3
+{
+    background-image: url("images/body/Bhupii_Soft_3.png");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-4
+{
+    background-image: url("images/body/web-1045994_960_720.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-5
+{
+    background-image: url("images/body/e-commerse.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-6
+{
+    background-image: url("images/body/web-application.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-7
+{
+    background-image: url("images/body/mobile-dev.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-8
+{
+    background-image: url("images/body/apps.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-9
+{
+    background-image: url("images/body/Bhupii_Soft_3.png");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-10
+{
+    background-image: url("images/body/apps.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-11
+{
+    background-image: url("images/body/digi-market.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-12
+{
+    background-image: url("images/body/support.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-13
+{
+    background-image: url("images/body/domain_services.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-14
+{
+    background-image: url("images/body/hosting.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-15
+{
+    background-image: url("images/body/map.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-16
+{
+    background-image: url("images/body/Bhupii_Soft_1.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-17
+{
+    background-image: url("images/body/mobile-dev.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-18
+{
+    background-image: url("images/body/Bhupii_Soft_3.png");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-19
+{
+    background-image: url("images/body/Bhupii_Soft_1.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+
+}
+.service-bg-20
+{
+    background-image: url("images/body/mobile-dev.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+
+}
+.service-bg-21
+{
+    background-image: url("images/body/Bhupii_Soft_3.png");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+.service-bg-22
+{
+    background-image: url("images/body/Bhupii_Soft_1.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-23
+{
+    background-image: url("images/body/mobile-dev.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+
+}
+.service-bg-24
+{
+    background-image: url("images/body/Bhupii_Soft_3.png");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-25
+{
+    background-image: url("images/body/Bhupii_Soft_1.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+.service-bg-26
+{background-image: url("images/body/mobile-dev.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+
+}
+.service-bg-27
+{
+    background-image: url("images/body/Bhupii_Soft_3.png");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-28
+{
+    background-image: url("images/body/Bhupii_Soft_1.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+
+}
+.service-bg-29
+{
+    background-image: url("images/body/mobile-dev.jpg");
+background-size:cover ;
+background-position: center;
+height: 250px;
+
+}
+.service-bg-30
+{background-image: url("images/body/Bhupii_Soft_3.png");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+.service-bg-31
+{background-image: url("images/body/software.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+.service-bg-32
+{background-image: url("images/body/mobile-app.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+.service-bg-33
+{background-image: url("images/body/web-design.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+.service-bg-34
+{background-image: url("images/body/hosting.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+.service-bg-35
+{background-image: url("images/body/digi-market.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+.service-bg-36
+{background-image: url("images/body/support.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+.service-bg-37
+{background-image: url("images/body/manage-it-service.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+.service-bg-38
+{background-image: url("images/body/it-outsource.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+.service-bg-39
+{background-image: url("images/body/consulting.jpg");
+    background-size:cover ;
+    background-position: center;
+    height: 250px;
+}
+
+
+.service-bg h2{
+    color: indigo;
+    background-color: ivory;
+    border: 1px solid;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 700px;
+    padding: 15px;
+    position: absolute;
+    left: 8%;
+    width: 84%;
+    margin: 0px;
+    bottom: -25px;
+    border-radius: 50px;
+    letter-spacing: 2px;
+}
+.single-service:hover .service-bg h2{
+    background-color: lawngreen;
+    transition: .9s;
+    color: lightcoral;
+}
+.service-text
+{
+    padding: 50px 30px 20px;
+    font-size: 15px;
+    color: black;
+    font-weight: 400px;
+
+}
+.service-text p:last-child{
+    margin:0;
+    line-height: 1.8;
+}
+.btn-area{
+    display: inline-block;
+    color: lightseagreen;
+    font-size: 16px;
+    font-weight: 700px;
+    margin-top: 30px;
+    text-transform: capitalize;
+}
+.col-md-3
+{
+    padding-top: 10px;
+}
+.contant {
+    padding-right: 38px;
+    padding-left: 38px;
+}
+
+
+  /* Style tab links */
+  .tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+  }
+  
+  .tablink:hover {
+    background-color: #777;
+  }
+  
+  /* Style the tab content (and add height:100% for full page content) */
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+  
+
+  .parallax {
+    /* The image used */
+    background-image: url("images/header.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  padding-top: 175px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #Home {background-color: rgb(233, 164, 164);}
+  #News {background-color: rgb(154, 240, 154);}
+  #Contact {background-color: rgb(141, 141, 247);}
+  #About {background-color: rgb(226, 195, 137);}
+
+ .col-md-4.all-services {
+    padding-top: 15px;
+}
+
+h1.parahead {
+    text-align: center;
+    padding-top: 55px;
+}
+
+
+.over-services{
+    margin:90px auto;
+    text-align: center;
+}
+h1 .os{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+h1 .os::after{
+    content: '';
+    background: cornsilk;
+    display: block;
+    width: 150px;
+    height: 3px;
+    margin: 10px auto;
+}
+.iconss
+{
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    border: 1px solid;
+}
+.col-md-4.text-centers{
+    box-shadow: 5px 7px 9px -3px blueviolet;
+    cursor: pointer;
+}
+.footer{
+    padding-top: 20px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.col_white_amrc { color:#FFF;}
+footer { width:100%; background-color:#263238; min-height:250px; padding:10px 0px 25px 0px ;}
+.pt2 { padding-top:40px ; margin-bottom:20px ;}
+footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
+.mb10 { padding-bottom:15px ;}
+.footer_ul_amrc { margin:0px ; list-style-type:none ; font-size:14px; padding:0px 0px 10px 0px ; }
+.footer_ul_amrc li {padding:0px 0px 5px 0px;}
+.footer_ul_amrc li a{ color:#CCC;}
+.footer_ul_amrc li a:hover{ color:#fff; text-decoration:none;}
+.fleft { float:left;}
+.padding-right { padding-right:10px; }
+
+.footer_ul2_amrc {margin:0px; list-style-type:none; padding:0px;}
+.footer_ul2_amrc li p { display:table; }
+.footer_ul2_amrc li a:hover { text-decoration:none;}
+.footer_ul2_amrc li i { margin-top:5px;}
+
+.bottom_border { border-bottom:1px solid #323f45; padding-bottom:20px;}
+.foote_bottom_ul_amrc {
+	list-style-type:none;
+	padding:0px;
+	display:table;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.foote_bottom_ul_amrc li { display:inline;}
+.foote_bottom_ul_amrc li a { color:#999; margin:0 12px;}
+
+.social_footer_ul { display:table; margin:15px auto 0 auto; list-style-type:none;  }
+.social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
+.social_footer_ul li a { color:#CCC; border:1px solid #CCC; padding:8px;border-radius:50%;}
+.social_footer_ul li i {  width:20px; height:20px; text-align:center;}
+
+
+footer {
+    width: 100%;
+    background-color: #a2a6a9;
+    min-height: 250px;
+    padding: 10px 0px 25px 0px;
+    margin-top: 60px;
+}
+a {
+    color: #d7e6f7;
+    text-decoration: none;
+    background-color: transparent;
+
+}
+ul.sicons {
+    padding-left: 500px;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa.i{
+  padding: 20px;
+  
+  
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.row.bottomrow{
+    padding-left: 525px;
+}
